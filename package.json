@@ -3,10 +3,10 @@
     "version": "0.0.1",
     "description": "Simple Discord bot template written in TypeScript using Discord.js.",
     "license": "MIT",
-    "author": "Zylo23 <pyyupsk@proton.me>",
+    "author": "pyyupsk <pyyupsk@proton.me>",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Zylo23/discord-typescript-bot.git"
+        "url": "git+https://github.com/pyyupsk/discord-typescript-bot.git"
     },
     "main": "src/index.ts",
     "scripts": {
